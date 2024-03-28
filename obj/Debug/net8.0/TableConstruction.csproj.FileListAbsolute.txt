@@ -1,0 +1,14 @@
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\bin\Debug\net8.0\TableConstruction.exe
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\bin\Debug\net8.0\TableConstruction.deps.json
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\bin\Debug\net8.0\TableConstruction.runtimeconfig.json
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\bin\Debug\net8.0\TableConstruction.dll
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\bin\Debug\net8.0\TableConstruction.pdb
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\TableConstruction.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\TableConstruction.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\TableConstruction.AssemblyInfo.cs
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\TableConstruction.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\TableConstruction.dll
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\refint\TableConstruction.dll
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\TableConstruction.pdb
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\TableConstruction.genruntimeconfig.cache
+E:\C#\C#_REPOS\TableConstruction\TableConstruction\obj\Debug\net8.0\ref\TableConstruction.dll
